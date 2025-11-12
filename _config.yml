@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: After the Storm: Collier County's Recovery from Hurricane Donna 
+title: "After the Storm: Collier County's Recovery from Hurricane Donna"
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A Digital Exhibit of Recovery and Resilience
+tagline: "A Digital Exhibit of Recovery and Resilience"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: A digital exhibition created by Brett Lethbridge for HIS 3080, exploring how Collier County responded to and recovered from Hurricane Donna in 1960.
+description: "A digital exhibition created by Brett Lethbridge for HIS 3080, exploring how Collier County responded to and recovered from Hurricane Donna in 1960."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Brett Lethbridge
+author: "Brett Lethbridge"
 
 ##########
 # COLLECTION SETTINGS
